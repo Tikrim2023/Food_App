@@ -1,0 +1,36 @@
+h1{
+    font-size:xx-large;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h4{
+    text-align:center;
+    touch-action:pinch-zoom;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   
+   
+    
+
+}
+
+input{
+    font: 9px;
+    bottom: 1px;;
+    box-sizing: border-box;
+    border-radius: 10cm;
+    text-align: center;
+    
+    background-color: white;
+    border: 100mm;
+    box-sizing:border-box;
+    
+    background-position:center;
+    border-radius: 0.5%;
+    width: 10mm;
+    height: 3cm;
+    
+    
+    text-emphasis:heliva;
+    font-size:large;
+    shape-margin: 10%;
+}
